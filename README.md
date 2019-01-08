@@ -13,3 +13,8 @@ A repo for well formed, semantic and accessible hyper text markup.
 - [Attribute role](docs/attribute/role.md)
 - [Attribute aria-label](docs/attribute/aria-label.md)
 - [Attribute aria-current](docs/attribute/aria-current.md)
+
+
+### Contributing
+
+Click [here](contributing.md) to see Contributing guidelines.
