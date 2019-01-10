@@ -7,6 +7,7 @@ A repo for well formed, semantic and accessible hyper text markup.
 ### Markup for various components
 - [Markup for header](docs/markupfor/header.md)
 - [Markup for breadcrumb](docs/markupfor/breadcrumb.md)
+- [Markup for pagination](docs/markupfor/pagination.md)
 - [Markup for footer](docs/markupfor/footer.md)
 
 ### Explanation for various HTML attributes
