@@ -1,5 +1,6 @@
 # Markup for Breadcrumb component
 
+A Breadcrumb indicate current page trail. You can navigate all the way up in the site hierarchy. In this markup example you add separators using CSS.
 
 ```html
 <nav aria-label="Breadcrumb">
