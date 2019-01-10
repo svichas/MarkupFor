@@ -1,6 +1,6 @@
 # Markup for Header component
 
-
+The header represents introductory content, typically a main navigation for a site. It may contain some heading elements but also other elements like a logo, a search form, menu, etc...
 
 ```html
 <header class="header">
