@@ -1,6 +1,6 @@
 # Markup for Pagination component
 
-A pagination navigates between a list of results.
+Pagination is a navigation that indicates a series of related content exists in multiple pages.
 
 ```html
 <nav aria-label="Pagination">
