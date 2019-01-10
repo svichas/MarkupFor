@@ -1,9 +1,9 @@
-
+# Markup for Breadcrumb component
 
 
 ```html
-<nav>
-    <ol aria-label="Breadcrumb">
+<nav aria-label="Breadcrumb">
+    <ol>
         <li><a href="#">Products</a></li>
         <li><a href="#">Cat-234</a></li>
         <li aria-current="page">Super product 23</li>
