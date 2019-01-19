@@ -4,8 +4,6 @@ The attribute role is used to define programmatically sections of a web page. Ro
 
 - alert
 - alertdialog
-- alertdialog
-- alertdialog
 - application
 - article
 - banner
